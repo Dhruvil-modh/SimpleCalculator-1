@@ -1,3 +1,7 @@
+/* This is a Simple Calculator 
+Author : Razeza
+On Date  .......
+*/
 #include <cstdlib>
 #include "stdio.h"
 
